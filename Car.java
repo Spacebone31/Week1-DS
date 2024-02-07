@@ -1,5 +1,3 @@
-package src;
-
 // Car class
 public class Car {
     // Attributes
